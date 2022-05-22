@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sb-website/static/css/main.bada7f28.css",
+    "main.js": "/sb-website/static/js/main.1bb2d7b5.js",
+    "static/media/banner.jpg": "/sb-website/static/media/banner.98cd6c96a58632bbe539.jpg",
+    "index.html": "/sb-website/index.html",
+    "main.bada7f28.css.map": "/sb-website/static/css/main.bada7f28.css.map",
+    "main.1bb2d7b5.js.map": "/sb-website/static/js/main.1bb2d7b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bada7f28.css",
+    "static/js/main.1bb2d7b5.js"
+  ]
+}
