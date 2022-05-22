@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
   return (
-    <div className='w-full flex flex-col justify-center items-center py-8'>
+    <div className='w-screen flex flex-col justify-center items-center py-8'>
       <div className='text-2xl font-bold'>Sobre</div>
 
       <div className='w-[40rem] mt-4 text-justify'>Nascida em Benavente, Portugal, é uma mãe guerreira. Criou sozinha seus 2 filhos, com muito amor, espírito de sacrifício e total dedicação perante uma história de vida complicada, onde perdeu  tudo o que construiu por três vezes, levantado-se e seguindo sempre em frente, com a força e coragem que a caracteriza, ressurgindo das cinzas sempre sozinha, como uma autêntica Fénix!</div>
