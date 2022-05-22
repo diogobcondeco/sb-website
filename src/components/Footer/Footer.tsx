@@ -1,9 +1,14 @@
-import React from 'react'
+import React from 'react';
 
 const Footer = () => {
   return (
-    <div className='bg-black text-white h-40 w-full flex justify-center items-center'>Footer</div>
+    <div className='bg-gray-300 w-full flex justify-center items-center py-8'>
+      © 2022 Susana Bastos. Coded by&nbsp;
+      <a href="https://diogobcondeco.com/" target="_blank" rel="noreferrer" className='underline'>Diogo Condêço</a>
+      &nbsp;&&nbsp;
+      <a href="https://google.com/" target="_blank" rel="noreferrer" className='underline'>Tiago Jesus</a>
+      </div>
   )
-}
+};
 
-export default Footer
+export default Footer;
