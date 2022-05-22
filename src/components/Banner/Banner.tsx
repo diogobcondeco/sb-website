@@ -1,5 +1,5 @@
 import React from 'react';
-import './Banner.scss';
+import '../../App.scss';
 import SocialLink from '../SocialLink/SocialLink';
 import {
   faWhatsapp

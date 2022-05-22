@@ -3,7 +3,7 @@ import Form from '../Form/Form';
 
 const Contact = () => {
   return (
-    <div className='bg-white w-screen flex flex-col justify-center items-center py-8'>
+    <div className='bg-white w-screen flex flex-col justify-center items-center py-12'>
       <div className='text-2xl font-bold'>Contactos</div>
 
       <div className='flex my-4'>
